@@ -2,6 +2,8 @@
 
 GPTPalette is a Google Chrome extension that allows users to change the visual theme of the ChatGPT app. Users can choose from pre-defined themes or create their own custom themes using CSS3.
 
+### Contributions are welcome!⚡🙌
+
 ## Installation
 
 To install the GPTPalette extension, follow these steps:
